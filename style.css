@@ -1,0 +1,14 @@
+/*
+Theme Name: xTheme HTML5
+Theme URI: http://fernandodesigner.net.br/
+Description: Um tema simples e pratico, com sidebar dinamico. 
+Author: FernandoProgrammer
+Author URI: http://fernandodesigner.net.br/
+Version: 1.2
+Tags: two-columns, simple, widgets, menu, widget ready, right sidebar, font-face, html5
+*/
+
+@import "css/style.css";
+@import "css/wp-calendar.css";
+@import "css/comments.css";
+@import "css/page-nav.css";

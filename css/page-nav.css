@@ -1,0 +1,41 @@
+/* 
+    Document   : page-nav
+    Created on : 11/09/2011, 22:46:41
+    Author     : FernandoMC  -  http://www.fernandodesigner.net.br/
+*/
+
+.wp-pagenavi  {
+    padding: 15px;
+    float: right;
+    margin-top: 25px;
+    font-size: 14px;
+}
+.wp-pagenavi a, .wp-pagenavi a:link {
+    padding: 3px 6px;
+    color: #111 !important;
+    border: none !important;
+    margin: 0 3px !important;
+    font-weight: normal;
+}
+.wp-pagenavi a:visited { }
+
+.wp-pagenavi span.pages {
+    border: 0px solid #F03 !important;
+    color: #111 !important;
+    margin: 0 3px !important;
+    font-weight: normal;
+}
+.wp-pagenavi a:hover,
+.wp-pagenavi a:active,
+.wp-pagenavi span.current {
+    color: #F03 !important;
+    padding: 3px 6px;
+    text-decoration: none;
+    border: none !important;
+    border-bottom: 3px solid #F03 !important;
+    margin: 0 3px !important;
+    font-weight: normal;
+}
+.wp-pagenavi span.extend {
+    border: 1px solid #ddd !important;
+}

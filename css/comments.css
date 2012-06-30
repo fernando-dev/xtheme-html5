@@ -1,0 +1,20 @@
+/* 
+    Document   : comments
+    Created on : 13/11/2011, 04:53:39
+    Author     : FernandoProgrammer
+    Author URI : http://fernandodesigner.net.br/
+*/
+
+#respond h3, #comments h3 { font-family: 'EpicFusionRegular'; font-size: 16px; width: 100%; padding: 3px 0; margin: 10px 0; border-bottom: 1px solid #d0d0d0; }
+
+#comments { padding: 5px 0; }
+#comments ol { list-style: none!important; margin: 0!important; padding: 0!important; }
+.avatar { float: left; margin-right: 5px; }
+#comments li { padding: 0 0 5px 0; font-size: 12px; border-bottom: 1px solid #d0d0d0; margin: 10px 0; }
+#comments cite, #comments cite a { font-size: 14px; font-style: normal; }
+
+#respond { clear: both; }
+input[type=text] { display: block; clear: both; width: 40%; padding: 7px; margin: 5px 0; }
+textarea { display: block; clear: both; width: 60%; padding: 7px; margin: 5px 0; height: 100px; }
+.submit, input[type=submit] { padding: 5px; cursor: pointer; margin: 5px 0; }
+
