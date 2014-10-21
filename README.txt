@@ -1,15 +1,1 @@
-== xTheme ==
-Author: fercom - http://fernandomoreiraweb.com
-Tags: HTML5, theme, 2 columns, right sidebar, font-face, slider
-Requires at least: 3.2
-Tested up to: 3.1 at 3.5
-Stable tag: 0.2.1.2
-
-== Description ==
-"xTheme" is a simple theme for wordpress using html5 tags
-
-*Essential plugins:
-  - the-excerpt-re-reloaded (http://www.lucabiagini.com/2008/11/wordpress-plugin-the-excerpt-re-reloaded/)
-  - wp-pagenavi (http://wordpress.org/extend/plugins/wp-pagenavi/)
-
-Download and enjoy!
+# xtheme-html5
